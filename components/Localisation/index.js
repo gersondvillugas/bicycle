@@ -88,7 +88,7 @@ class Localisation extends Component {
                 title={user.email}
                 coordinate={{latitude:user.latitude,longitude:user.longitude}}
                 
-                description={"description ey"}
+                description={String(user.precio)}
     
              />
         );

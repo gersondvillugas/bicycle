@@ -125,7 +125,7 @@ class  Setlocation extends Component {
            />
          
              <Button
-            title={'Registro'}
+            title={'publicar'}
             style={styles.input}
             onPress={this.findCoordinates}
            // onPress={() => this.props.navigation.navigate('Details')}
